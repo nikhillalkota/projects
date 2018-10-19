@@ -15,3 +15,13 @@ shadow.txt consists of usernames,salt,saltedhash,etc.
 
 
 
+
+DNS Server
+
+A simple dns server written in c language which accept requests from the clients and once after establishing a connection with the client.When the client requests the ip address of a particular domain this dns server serves client request by sending reply with the number of ip address associated to that domain along with the preferred ip.
+
+
+
+
+
+
