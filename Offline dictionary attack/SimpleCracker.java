@@ -1,5 +1,3 @@
-/** Nikhil Lalkota(nl269),Vaishnavi Anjanegowda(va273),Jacqueline Andrade(jpa34)
- **/
 import java.io.*;
 import java.math.BigInteger;
 import java.security.MessageDigest;
