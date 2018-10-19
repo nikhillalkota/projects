@@ -1,4 +1,3 @@
-/* CS656-00N Group M1 - Akin Raju (ar2286) / Aneri Oza (ao288) / Anjo Sam Thomas (at672)/ Molly Correia (mwc34) / Nikhil Lalkota (nl269)/ Ritisha Vijay Thakar (rt383)*/
 #include <sys/socket.h>							//For socket functions
 #include <netinet/in.h> 						//Defines INET_ADDRSTRLEN macro as 16 & INET6_ADDRSTRLEN as 46
 #include <sys/types.h>							
