@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 
-print("testing cmx and wwiops")
+print("testing https://testdemosecurity.wwiops.io")
