@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 
-print("testing https://testdemosecurity.wwiops.io")
+print("testing duplicate https://testdemosecurity.wwiops.io")
