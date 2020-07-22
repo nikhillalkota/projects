@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 
-print("testing probot")
+print("testing probot app")
