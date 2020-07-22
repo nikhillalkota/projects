@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 
-print("TEsting keywords cmx, wwiops")
+print("testing duplicate https://testdemosecurity.wwiops.io")
