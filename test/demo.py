@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-#tting comment statuis
+#ttig comment statuis
 print("testing PR probot app with flask")
