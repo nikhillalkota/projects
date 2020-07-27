@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-# tsiiiit status 2
+# testing node js app
 print("testing PR probot app with flask")
