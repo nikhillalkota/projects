@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
-# dhanegsnew stuff
+# degsnew stuff
 print("testing PR probot app with flask")
