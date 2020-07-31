@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-# md test degsnew stu
+# m test degsnew stu
 #test prfiles
 print("testing PR probot app with flask")
