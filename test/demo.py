@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
 
-#ti test
+#i test
 print("testing PR probot app with flask")
