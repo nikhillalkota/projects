@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+import pickle
+
+#rbxcvvddyds
+body = {"a":"aa"}
 
 
-print("test PR probot app")
+body = pickle.loads(body)
+
+print("testing PR probot app with flask")
