@@ -9,7 +9,7 @@ See the file 'LICENSE' for copying permission
 """
 
 from __future__ import print_function
-#tddst
+#tddiiist
 import sys
 import argparse
 import re
